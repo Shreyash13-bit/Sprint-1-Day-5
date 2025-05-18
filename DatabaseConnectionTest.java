@@ -4,9 +4,9 @@ import java.sql.SQLException;
 
 public class DatabaseConnectionTest {
     public static void main(String[] args) {
-        String url = "jdbc:mysql://localhost:3306/database_name";
-        String user = "username";
-        String password = "password";
+        String url = "jdbc:mysql://localhost:3306/employee";
+        String user = "root";
+        String password = "Shontu@13";
       
         Connection connection = null;
 
